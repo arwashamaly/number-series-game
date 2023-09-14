@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">arwa_shamaly_project</string>
+    <string name="game_name">سلسلة الارقام</string>
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="btn_regester">انشاء حساب</string>
+    <string name="et_login_user_name_hint">اسم المستخدم</string>
+    <string name="et_login_password_hint">كلمة المرور</string>
+    <string name="checkbox_login_text">تذكرني؟</string>
+    <string name="et_register_fullname_hint">الاسم كامل</string>
+    <string name="et_register_email_hint">البريد الالكتروني</string>
+    <string name="et_register_username_hint">اسم المستخدم</string>
+    <string name="et_register_pass_hint">كلمة المرور</string>
+    <string name="et_register_re_pass_hint">اعادة كلمة المرور</string>
+    <string name="register_rb_male">ذكر</string>
+    <string name="register_rb_female">أنثى</string>
+    <string name="btn_register_save">حفظ</string>
+    <string name="tv_register_birthdate">تاريخ الميلاد</string>
+    <string name="tv_score">0</string>
+    <string name="tv_welcome">\أهلا بك...</string>
+    <string name="tv_games_fullname">اسم المستخدم</string>
+    <string name="tv_age">00</string>
+    <string name="et_answer_hint">ادخل الرقم</string>
+    <string name="btn_check_answer">افحص</string>
+    <string name="btn_new_game">لعبة جديدة</string>
+    <string name="btn_show_all_games">عرض كل الألعاب</string>
+    <string name="btn_last_game_data">إظهار بيانات اللعبة الأخيرة</string>
+    <string name="btn_change_pass">تغير كلمة المرور</string>
+    <string name="btn_clear_history">محو سجل اللعبة</string>
+    <string name="et_old_pass_hint">ادخل كلمة المرور القديمة</string>
+    <string name="et_new_pass_hint">ادخل كلمة المرور الجديدة</string>
+    <string name="btn_save_new_pass">حفظ</string>
+
+
+    <string-array name="country">
+        <item>فلسطين</item>
+        <item>اوكرانيا</item>
+        <item>الدنمارك</item>
+        <item>فرنسا</item>
+        <item>المانيا</item>
+        <item>اليابان</item>
+        <item>الولايات المتحدة الامريكية</item>
+        <item>المملكة المتحدة</item>
+        <item>مصر</item>
+        <item>السودان</item>
+        <item>السعودية</item>
+        <item>الامارات</item>
+        <item>سوريا</item>
+        <item>الاردن</item>
+        <item>العراق</item>
+        <item>المغرب</item>
+        <item>لبنان</item>
+        <item>استراليا</item>
+        <item>بلجيكا</item>
+        <item>البرازيل</item>
+        <item>الصين</item>
+    </string-array>
+
+
+</resources>
